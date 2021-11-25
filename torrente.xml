@@ -1,0 +1,13 @@
+<Pelicula>
+<Titulo>Torrente 1</Titulo>
+<Duracion>98</Duracion>
+<Genero>Comedy</Genero>
+<Actores>
+<Actor>Santiago Segura</Actor>
+<Actor>Javier Cámara</Actor>
+<Actor>Policarpo Díaz</Actor>
+</Actores>
+<Fecha>1998</Fecha>
+<Director>Santiago Segura</Director>
+<Formato>DVD</Formato>
+</Pelicula>
